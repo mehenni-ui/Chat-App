@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/feedFragmentId"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/profileFragmentId"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"
+        app:showAsAction="ifRoom"/>
+
+</menu>
